@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="liquid" y="-50" isGF="false" color="#FF9933" isPlayer="false" holdTime="6.1" sprite="liquid">
+	<anim x="-2" loop="false" y="0" fps="24" anim="liquid chris idle" name="idle"/>
+	<anim x="147" loop="false" y="-15" fps="24" anim="liquid chris left" name="singLEFT"/>
+	<anim x="147" loop="false" y="-76" fps="24" anim="liquid chris down" name="singDOWN"/>
+	<anim x="84" loop="false" y="31" fps="24" anim="liquid chris up" name="singUP"/>
+	<anim x="95" loop="false" y="-12" fps="24" anim="liquid chris right" name="singRIGHT"/>
+	<anim x="16" loop="false" y="1" fps="24" anim="liquid chris peace" name="hey"/>
+	<anim x="80" loop="false" y="1" fps="24" anim="liquid guitar" name="hurt"/>
+	<anim x="0" loop="false" y="8" fps="24" anim="liquid chris sigh" name="sigh"/>
+</character>

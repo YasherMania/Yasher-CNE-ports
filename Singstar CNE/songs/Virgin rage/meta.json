@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "solid",
+	"difficulties": [
+		"hard"
+	],
+	"parsedColor": -131072,
+	"color": "#FE0000",
+	"name": "Virgin rage",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Virgin Rage",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 165
+}

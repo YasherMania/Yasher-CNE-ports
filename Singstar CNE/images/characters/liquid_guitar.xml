@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liquid_guitar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liquid back to mic0000" x="1996" y="1616" width="672" height="809" frameX="-1764" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0001" x="1996" y="1616" width="672" height="809" frameX="-1764" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0002" x="634" y="1628" width="665" height="809" frameX="-1799" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0003" x="634" y="1628" width="665" height="809" frameX="-1799" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0004" x="4948" y="941" width="602" height="911" frameX="-1804" frameY="0" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0005" x="4948" y="941" width="602" height="911" frameX="-1804" frameY="0" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0006" x="0" y="809" width="631" height="885" frameX="-1802" frameY="-26" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0007" x="0" y="809" width="631" height="885" frameX="-1802" frameY="-26" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0008" x="0" y="809" width="631" height="885" frameX="-1802" frameY="-26" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0009" x="0" y="809" width="631" height="885" frameX="-1802" frameY="-26" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0010" x="0" y="809" width="631" height="885" frameX="-1802" frameY="-26" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0011" x="5626" y="0" width="715" height="815" frameX="-1713" frameY="-96" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0012" x="2094" y="0" width="1455" height="806" frameX="-636" frameY="-105" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0013" x="0" y="0" width="2091" height="806" frameX="0" frameY="-105" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0014" x="5748" y="3221" width="550" height="813" frameX="-1549" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0015" x="5748" y="3221" width="550" height="813" frameX="-1549" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0016" x="1227" y="3203" width="553" height="813" frameX="-1546" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0017" x="1227" y="3203" width="553" height="813" frameX="-1546" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0018" x="1227" y="3203" width="553" height="813" frameX="-1546" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0019" x="1227" y="3203" width="553" height="813" frameX="-1546" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0020" x="5178" y="3158" width="567" height="813" frameX="-1532" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0021" x="1966" y="3177" width="567" height="813" frameX="-1532" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0022" x="7757" y="0" width="401" height="813" frameX="-1745" frameY="-98" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0023" x="0" y="3329" width="401" height="804" frameX="-1787" frameY="-105" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0024" x="0" y="3329" width="401" height="804" frameX="-1787" frameY="-105" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0025" x="3478" y="3345" width="345" height="805" frameX="-1761" frameY="-104" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0026" x="3478" y="3345" width="345" height="805" frameX="-1761" frameY="-104" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0027" x="3104" y="3345" width="371" height="807" frameX="-1774" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0028" x="3104" y="3345" width="371" height="807" frameX="-1774" frameY="-102" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0029" x="6301" y="3221" width="476" height="813" frameX="-1795" frameY="-96" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0030" x="6301" y="3221" width="476" height="813" frameX="-1795" frameY="-96" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0031" x="611" y="3256" width="464" height="809" frameX="-1790" frameY="-100" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid back to mic0032" x="611" y="3256" width="464" height="809" frameX="-1790" frameY="-100" frameWidth="2464" frameHeight="911"/>
+	<SubTexture name="liquid chris down guitar0000" x="4736" y="1855" width="701" height="761" frameX="-10" frameY="-15" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0001" x="4736" y="1855" width="701" height="761" frameX="-10" frameY="-15" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0002" x="1318" y="809" width="712" height="776"/>
+	<SubTexture name="liquid chris down guitar0003" x="1318" y="809" width="712" height="776"/>
+	<SubTexture name="liquid chris down guitar0004" x="2723" y="809" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0005" x="2723" y="809" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0006" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0007" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0008" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0009" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0010" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris down guitar0011" x="5626" y="818" width="709" height="776" frameX="-2" frameY="0" frameWidth="712" frameHeight="776"/>
+	<SubTexture name="liquid chris guitar left0000" x="6344" y="0" width="706" height="804" frameX="0" frameY="-1" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0001" x="6344" y="0" width="706" height="804" frameX="0" frameY="-1" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0002" x="6344" y="807" width="698" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0003" x="6344" y="807" width="698" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0004" x="7053" y="0" width="701" height="805" frameX="-14" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0005" x="7053" y="0" width="701" height="805" frameX="-14" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0006" x="7045" y="808" width="697" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0007" x="7045" y="808" width="697" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0008" x="7045" y="808" width="697" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris guitar left0009" x="7045" y="808" width="697" height="805" frameX="-18" frameY="0" frameWidth="716" frameHeight="805"/>
+	<SubTexture name="liquid chris hey guitar0000" x="2033" y="809" width="687" height="804" frameX="0" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0001" x="2033" y="809" width="687" height="804" frameX="0" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0002" x="3401" y="1757" width="666" height="804" frameX="-4" frameY="-2" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0003" x="3401" y="1757" width="666" height="804" frameX="-4" frameY="-2" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0004" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0005" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0006" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0007" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0008" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0009" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0010" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0011" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0012" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0013" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0014" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0015" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0016" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0017" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0018" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0019" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0020" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0021" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0022" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0023" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0024" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0025" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0026" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris hey guitar0027" x="4070" y="1761" width="663" height="806" frameX="-11" frameY="0" frameWidth="687" frameHeight="806"/>
+	<SubTexture name="liquid chris idle guitar0000" x="3335" y="2564" width="625" height="778" frameX="-29" frameY="-30" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0001" x="3335" y="2564" width="625" height="778" frameX="-29" frameY="-30" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0002" x="3963" y="2570" width="625" height="775" frameX="-26" frameY="-33" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0003" x="3963" y="2570" width="625" height="775" frameX="-26" frameY="-33" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0004" x="6144" y="2426" width="653" height="792" frameX="-11" frameY="-16" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0005" x="6144" y="2426" width="653" height="792" frameX="-11" frameY="-16" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0006" x="6909" y="1616" width="668" height="808" frameX="-5" frameY="0" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0007" x="6909" y="1616" width="668" height="808" frameX="-5" frameY="0" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0008" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0009" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0010" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0011" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0012" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0013" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0014" x="3335" y="2564" width="625" height="778" frameX="-29" frameY="-30" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0015" x="3335" y="2564" width="625" height="778" frameX="-29" frameY="-30" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0016" x="3963" y="2570" width="625" height="775" frameX="-26" frameY="-33" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0017" x="3963" y="2570" width="625" height="775" frameX="-26" frameY="-33" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0018" x="6144" y="2426" width="653" height="792" frameX="-11" frameY="-16" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0019" x="6144" y="2426" width="653" height="792" frameX="-11" frameY="-16" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0020" x="6909" y="1616" width="668" height="808" frameX="-5" frameY="0" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0021" x="6909" y="1616" width="668" height="808" frameX="-5" frameY="0" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris idle guitar0022" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0023" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0024" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0025" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0026" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris idle guitar0027" x="6233" y="1615" width="673" height="808"/>
+	<SubTexture name="liquid chris post solo0000" x="1966" y="2428" width="667" height="746" frameX="-40" frameY="-71" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0001" x="1966" y="2428" width="667" height="746" frameX="-40" frameY="-71" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0002" x="7475" y="2427" width="670" height="757" frameX="-40" frameY="-60" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0003" x="7475" y="2427" width="670" height="757" frameX="-40" frameY="-60" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0004" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0005" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0006" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0007" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0008" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0009" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0010" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0011" x="6800" y="2427" width="672" height="762" frameX="-40" frameY="-55" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0012" x="2671" y="2400" width="661" height="799" frameX="-26" frameY="-18" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0013" x="2671" y="2400" width="661" height="799" frameX="-26" frameY="-18" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0014" x="634" y="809" width="681" height="816" frameX="0" frameY="0" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0015" x="634" y="809" width="681" height="816" frameX="0" frameY="0" frameWidth="712" frameHeight="817"/>
+	<SubTexture name="liquid chris post solo0016" x="6233" y="1615" width="673" height="808" frameX="-7" frameY="-7" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris post solo0017" x="3335" y="2564" width="625" height="778" frameX="-35" frameY="-38" frameWidth="673" frameHeight="808"/>
+	<SubTexture name="liquid chris right guitar0000" x="7580" y="1616" width="561" height="804" frameX="0" frameY="-5" frameWidth="565" frameHeight="809"/>
+	<SubTexture name="liquid chris right guitar0001" x="7580" y="1616" width="561" height="804" frameX="0" frameY="-5" frameWidth="565" frameHeight="809"/>
+	<SubTexture name="liquid chris right guitar0002" x="7475" y="3187" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0003" x="7475" y="3187" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0004" x="6800" y="3192" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0005" x="6800" y="3192" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0006" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0007" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0008" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0009" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0010" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0011" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0012" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris right guitar0013" x="2536" y="3202" width="565" height="809"/>
+	<SubTexture name="liquid chris shocked0000" x="5440" y="2406" width="701" height="749" frameX="-55" frameY="-196" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0001" x="5440" y="2406" width="701" height="749" frameX="-55" frameY="-196" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0002" x="3552" y="0" width="704" height="942" frameX="0" frameY="-4" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0003" x="3552" y="0" width="704" height="942" frameX="0" frameY="-4" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0004" x="4259" y="0" width="686" height="946" frameX="-9" frameY="0" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0005" x="4259" y="0" width="686" height="946" frameX="-9" frameY="0" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0006" x="4948" y="0" width="675" height="938" frameX="-21" frameY="-8" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0007" x="3435" y="945" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0008" x="3435" y="945" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0009" x="3435" y="945" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0010" x="5553" y="1597" width="677" height="806" frameX="-18" frameY="-140" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0011" x="5553" y="1597" width="677" height="806" frameX="-18" frameY="-140" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0012" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0013" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0014" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0015" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0016" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0017" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0018" x="1318" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0019" x="1318" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0020" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0021" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0022" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0023" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0024" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0025" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0026" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0027" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0028" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0029" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0030" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0031" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0032" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0033" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0034" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0035" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0036" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0037" x="1318" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0038" x="1318" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0039" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0040" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0041" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0042" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0043" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0044" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0045" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0046" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0047" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0048" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0049" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0050" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0051" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0052" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0053" x="2723" y="1588" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0054" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0055" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0056" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0057" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0058" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0059" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0060" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0061" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0062" x="4113" y="949" width="675" height="809" frameX="-21" frameY="-137" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0063" x="1302" y="2400" width="661" height="800" frameX="-32" frameY="-146" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris shocked0064" x="1302" y="2400" width="661" height="800" frameX="-32" frameY="-146" frameWidth="756" frameHeight="946"/>
+	<SubTexture name="liquid chris up guitar0000" x="4591" y="2619" width="584" height="829" frameX="0" frameY="0" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0001" x="4591" y="2619" width="584" height="829" frameX="0" frameY="0" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0002" x="0" y="2513" width="608" height="813" frameX="-11" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0003" x="0" y="2513" width="608" height="813" frameX="-11" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0004" x="615" y="2440" width="609" height="813" frameX="-9" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0005" x="615" y="2440" width="609" height="813" frameX="-9" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0006" x="0" y="1697" width="612" height="813" frameX="-6" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0007" x="0" y="1697" width="612" height="813" frameX="-6" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0008" x="0" y="1697" width="612" height="813" frameX="-6" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0009" x="0" y="1697" width="612" height="813" frameX="-6" frameY="-16" frameWidth="619" frameHeight="829"/>
+	<SubTexture name="liquid chris up guitar0010" x="0" y="1697" width="612" height="813" frameX="-6" frameY="-16" frameWidth="619" frameHeight="829"/>
+</TextureAtlas>

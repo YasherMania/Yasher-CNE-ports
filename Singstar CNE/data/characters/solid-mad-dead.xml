@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-130" y="230" flipx="true">
+	<anim name="firstDeath" anim="solid rage lose0" x="37" y="11"/>
+	<anim name="deathLoop" anim="solid rage lose loop" x="20" y="-102" loop="true"/>
+	<anim name="deathConfirm" anim="solid rage retry" x="31" y="-15"/>
+</character>

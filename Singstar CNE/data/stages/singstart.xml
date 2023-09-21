@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/singstart/">
+	<sprite name="bg"               x="-600" y="-200"   sprite="stageback"       scroll="0.9" />
+	<sprite name="stageFront"       x="-600" y="600"    sprite="stagefront"      scroll="0.9"/>
+	<sprite name="toys" 			x="0" y="350" 	sprite="stagestuff" 	 scroll="1"/>
+	<girlfriend x="300" y="-140" />
+	<dad /> 
+	<sprite name="sparkles"    x="100" y="0"   sprite="sparkles"   scroll="1" />
+	<boyfriend x="700" camxoffset="-300"/>
+	<sprite name="stageCurtains"    x="-500" y="-300"   sprite="stagecurtains"   scroll="1.3" />
+	<sprite name="stagecrowd"    x="-1000" y="300"   sprite="stagecrowd"   scroll="1" />
+</stage>

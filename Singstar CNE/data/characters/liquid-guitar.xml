@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" icon="liquid" camx="-860" y="-50" isGF="false" camy="-79" color="#FF9933" isPlayer="false" holdTime="6.1" sprite="liquid_guitar">
+	<anim x="-2" loop="false" y="0" fps="24" anim="liquid chris idle guitar" name="idle"/>
+	<anim x="101" loop="false" y="-3" fps="24" anim="liquid chris guitar left" name="singLEFT"/>
+	<anim x="-16" loop="false" y="-32" fps="24" anim="liquid chris down guitar" name="singDOWN"/>
+	<anim x="-14" loop="false" y="20" fps="24" anim="liquid chris up guitar" name="singUP"/>
+	<anim x="-39" loop="false" y="1" fps="24" anim="liquid chris right guitar" name="singRIGHT"/>
+	<anim x="4" loop="false" y="-5" fps="24" anim="liquid chris hey guitar" name="hey"/>
+	<anim x="5" loop="false" y="8" fps="24" anim="liquid chris post solo" name="singDOWN-alt"/>
+	<anim x="22" loop="false" y="137" fps="24" anim="liquid chris shocked" name="shocked"/>
+	<anim x="1760" loop="false" y="99" fps="24" anim="liquid back to mic" name="transition"/>
+</character>

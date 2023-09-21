@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-440" y="150" flipx="true">
+	<anim name="firstDeath" anim="solid lose" x="37" y="11"/>
+	<anim name="deathLoop" anim="chris chan lose loop" x="38" y="-146" loop="true"/>
+	<anim name="deathConfirm" anim="chris chan retry" x="38" y="-59"/>
+</character>

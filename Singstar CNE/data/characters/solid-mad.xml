@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="160" y="285" flipx="true" camx="180" camy="20">
+	<anim name="idle" anim="solid MAD idle" x="3" y="20"/>
+	<anim name="transition" anim="solid throwing guitar" x="190" y="60"/>
+	<anim name="singUP" anim="solid mad up note" x="-49" y="86"/>
+	<anim name="singDOWN" anim="solid mad down note" x="19" y="-35"/>
+	<anim name="singLEFT" anim="solid mad left note" x="113" y="20"/>
+	<anim name="singRIGHT" anim="solid mad right note" x="-3" y="25"/>
+	<anim name="singDOWNmiss" anim="solid mad down miss" x="27" y="-20"/>
+	<anim name="singUPmiss" anim="solid mad miss up" x="-41" y="85"/>
+	<anim name="singRIGHTmiss" anim="solid mad right miss" x="-2" y="29"/>
+	<anim name="singLEFTmiss" anim="solid mad left miss" x="113" y="20"/>
+	<anim name="idle-loop" anim="solid MAD idle" x="3" y="20" loop="true" indices="9,10,11,12,13,14"/>
+</character>

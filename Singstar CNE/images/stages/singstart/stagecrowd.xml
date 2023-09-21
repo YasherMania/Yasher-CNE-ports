@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdtrolls.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stage trolls0000" x="0" y="3227" width="3051" height="1594" frameX="-21" frameY="-66" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0001" x="0" y="3227" width="3051" height="1594" frameX="-21" frameY="-66" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0002" x="0" y="4821" width="3087" height="1567" frameX="-9" frameY="-76" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0003" x="0" y="4821" width="3087" height="1567" frameX="-9" frameY="-76" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0004" x="0" y="0" width="3063" height="1615" frameX="0" frameY="-6" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0005" x="0" y="0" width="3063" height="1615" frameX="0" frameY="-6" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0006" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0007" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0008" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0009" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0010" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0011" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0012" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+	<SubTexture name="stage trolls0013" x="0" y="1615" width="3037" height="1612" frameX="-26" frameY="0" frameWidth="3096" frameHeight="1660"/>
+</TextureAtlas>

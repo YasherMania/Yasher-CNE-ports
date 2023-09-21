@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="womanreal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="0" y="703" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0001" x="1402" y="701" width="703" height="657"/>
+	<SubTexture name="GF Cheer0002" x="2103" y="0" width="703" height="654" frameX="0" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0003" x="701" y="703" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0004" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0005" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0006" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0007" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0008" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0009" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0010" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0011" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0012" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0013" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0014" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0015" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0016" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0017" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0018" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0019" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Cheer0020" x="0" y="1362" width="699" height="654" frameX="-2" frameY="-3" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="GF Dancing Beat0000" x="4211" y="2543" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0001" x="701" y="4598" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0002" x="4215" y="1276" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0003" x="2103" y="5235" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0004" x="4916" y="0" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0005" x="4916" y="637" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0006" x="1406" y="4596" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0007" x="2107" y="656" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0008" x="2107" y="656" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0009" x="2107" y="656" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0010" x="1407" y="2011" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0011" x="1407" y="2011" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0012" x="1407" y="2011" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0013" x="0" y="2018" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0014" x="0" y="2018" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0015" x="2107" y="4527" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0016" x="3510" y="645" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0017" x="4211" y="0" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0018" x="4206" y="3220" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0019" x="701" y="5234" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0020" x="0" y="5238" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0021" x="3510" y="1283" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0022" x="2108" y="1952" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0023" x="2108" y="1952" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0024" x="2108" y="1952" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0025" x="2804" y="2597" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0026" x="2804" y="2597" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0027" x="2804" y="2597" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0028" x="2809" y="1291" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0029" x="2809" y="1291" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0030" x="2809" y="1291" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Beat0031" x="2809" y="1291" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF FEAR 0000" x="2804" y="3885" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0001" x="0" y="3956" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0002" x="3510" y="1923" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0003" x="701" y="3956" width="699" height="640"/>
+	<SubTexture name="gf love0000" x="701" y="1360" width="704" height="652"/>
+	<SubTexture name="gf love0001" x="701" y="1360" width="704" height="652"/>
+	<SubTexture name="gf love0002" x="1402" y="3955" width="700" height="639" frameX="-2" frameY="-13" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0003" x="3505" y="2579" width="700" height="639" frameX="-2" frameY="-13" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0004" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0005" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0006" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0007" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0008" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0009" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0010" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0011" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0012" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0013" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0014" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0015" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0016" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0017" x="2808" y="646" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf love0018" x="3509" y="0" width="700" height="643" frameX="-2" frameY="-9" frameWidth="704" frameHeight="652"/>
+	<SubTexture name="gf sad0000" x="4206" y="3858" width="699" height="633" frameX="0" frameY="-5" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0001" x="4206" y="3858" width="699" height="633" frameX="0" frameY="-5" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0002" x="3505" y="3220" width="699" height="638"/>
+	<SubTexture name="gf sad0003" x="3505" y="3860" width="699" height="638"/>
+	<SubTexture name="gf sad0004" x="4215" y="638" width="699" height="636" frameX="0" frameY="-2" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0005" x="4215" y="638" width="699" height="636" frameX="0" frameY="-2" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0006" x="4206" y="4493" width="699" height="633" frameX="0" frameY="-5" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0007" x="4206" y="4493" width="699" height="633" frameX="0" frameY="-5" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0008" x="3505" y="3220" width="699" height="638"/>
+	<SubTexture name="gf sad0009" x="3505" y="3860" width="699" height="638"/>
+	<SubTexture name="gf sad0010" x="4215" y="638" width="699" height="636" frameX="0" frameY="-2" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0011" x="4215" y="638" width="699" height="636" frameX="0" frameY="-2" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="gf sad0012" x="4215" y="638" width="699" height="636" frameX="0" frameY="-2" frameWidth="699" frameHeight="638"/>
+	<SubTexture name="kacey react guitar throw0000" x="2804" y="5165" width="703" height="628" frameX="0" frameY="-73" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0001" x="2804" y="5165" width="703" height="628" frameX="0" frameY="-73" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0002" x="0" y="0" width="699" height="701" frameX="-2" frameY="0" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0003" x="701" y="0" width="699" height="701" frameX="-2" frameY="0" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0004" x="1402" y="0" width="699" height="699" frameX="-2" frameY="-2" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0005" x="1402" y="0" width="699" height="699" frameX="-2" frameY="-2" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0006" x="3505" y="4500" width="699" height="638" frameX="-2" frameY="-63" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0007" x="0" y="4598" width="699" height="638" frameX="-2" frameY="-63" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0008" x="4211" y="1910" width="703" height="631" frameX="0" frameY="-70" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0009" x="4211" y="1910" width="703" height="631" frameX="0" frameY="-70" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0010" x="1407" y="1360" width="699" height="649" frameX="-2" frameY="-52" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0011" x="1407" y="1360" width="699" height="649" frameX="-2" frameY="-52" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0012" x="2108" y="1306" width="699" height="644" frameX="-2" frameY="-57" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0013" x="2108" y="1306" width="699" height="644" frameX="-2" frameY="-57" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0014" x="2809" y="1935" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0015" x="2809" y="1935" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0016" x="2804" y="3241" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0017" x="2804" y="3241" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0018" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0019" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0020" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0021" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0022" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0023" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0024" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0025" x="701" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0026" x="701" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0027" x="1402" y="3311" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0028" x="1402" y="3311" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0029" x="0" y="2668" width="703" height="642" frameX="0" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0030" x="0" y="2668" width="703" height="642" frameX="0" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0031" x="2103" y="3308" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0032" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0033" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0034" x="701" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0035" x="701" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0036" x="1402" y="3311" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0037" x="1402" y="3311" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0038" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0039" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0040" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0041" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0042" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0043" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0044" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0045" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0046" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0047" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0048" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0049" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0050" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0051" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0052" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0053" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0054" x="0" y="2668" width="703" height="642" frameX="0" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0055" x="0" y="2668" width="703" height="642" frameX="0" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0056" x="2103" y="3308" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0057" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0058" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0059" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0060" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0061" x="0" y="3312" width="699" height="642" frameX="-2" frameY="-59" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0062" x="4206" y="5128" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0063" x="4206" y="5128" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0064" x="701" y="2014" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0065" x="701" y="2014" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0066" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0067" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0068" x="1402" y="5235" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0069" x="1402" y="5235" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0070" x="1402" y="2661" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0071" x="1402" y="2661" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0072" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0073" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0074" x="1402" y="5235" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0075" x="1402" y="5235" width="699" height="633" frameX="-2" frameY="-68" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0076" x="1402" y="2661" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0077" x="1402" y="2661" width="699" height="648" frameX="-2" frameY="-53" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0078" x="2808" y="0" width="699" height="644" frameX="-2" frameY="-57" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0079" x="2808" y="0" width="699" height="644" frameX="-2" frameY="-57" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0080" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+	<SubTexture name="kacey react guitar throw0081" x="2103" y="2661" width="699" height="645" frameX="-2" frameY="-56" frameWidth="703" frameHeight="701"/>
+</TextureAtlas>
