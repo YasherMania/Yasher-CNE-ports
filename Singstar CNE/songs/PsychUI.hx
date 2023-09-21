@@ -33,7 +33,7 @@ public var ratingStuff:Array<Dynamic> = [
     ['Perfect!!', 1]
 ];
 
-function onPostNoteCreation(event) {
+function onPostNoteCreation(event) {    
     if (FlxG.save.data.Splashes) {
     	var note = event.note;
 	    note.splash = "diamond";
@@ -150,43 +150,29 @@ function update(elapsed:Float) {
     } 
 }
 
-function onPlayerHit(note:Note) {
-    if(!note.isSustainNote){
-        if(hudTxtTween != null) {
-            hudTxtTween.cancel();
-        }
-        hudTxt.scale.x = 1.075;
-        hudTxt.scale.y = 1.075;
-        hudTxtTween = FlxTween.tween(hudTxt.scale, {x: 1, y: 1}, 0.2, {
-            onComplete: function(twn:FlxTween) {
-                hudTxtTween = null;
-            }
-        });
-    
+function onPlayerHit(event) {
+    if (event.note.isSustainNote) return;
+
+    if(hudTxtTween != null) {
+        hudTxtTween.cancel();
     }
-    if (!note.isSustainNote) {
-        for (i in 0...note.rating.length) {
-            var rating:String = note.rating.substr(i, 4);
-            if (rating == "sick") {
-                sicks += 1;
-            } else if (rating == "good") {
-                goods += 1;
-            } else if (rating == "bad") {
-                bads += 1;
-            } else if (rating == "shit") {
-                shits += 1;
-            }
-       }
+    hudTxt.scale.x = 1.075;
+    hudTxt.scale.y = 1.075;
+    hudTxtTween = FlxTween.tween(hudTxt.scale, {x: 1, y: 1}, 0.2, {onComplete: function(twn:FlxTween) {hudTxtTween = null;}});
+
+    switch (event.rating) {
+        case "sick": sicks++;
+        case "good": goods++;
+        case "bad": bads++;
+        case "shit": shits++;
     }
-    if (misses == 0) {
-        if (sicks > 0) ratingFC = "SFC";
-        if (goods > 0 && accuracy < 1) ratingFC = "GFC";
-        if (bads > 0 || shits > 0) ratingFC = "FC";
-    }
-    if (misses > 0) {
-        if (misses < 10) ratingFC = "SDCB";
-        else if (misses >= 10) ratingFC = "Clear";
-    }
+    ratingFC = 'Clear';
+    if(misses < 1) {
+		if (bads > 0 || shits > 0) ratingFC = 'FC';
+		else if (goods > 0) ratingFC = 'GFC';
+		else if (sicks > 0) ratingFC = 'SFC';
+	}
+	else if (misses < 10) ratingFC = 'SDCB';
 }
 
 function postCreate() {
