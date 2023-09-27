@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid_dead.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chris chan lose loop0000" x="976" y="1993" width="973" height="457" frameX="0" frameY="-14" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0001" x="2926" y="1974" width="973" height="460" frameX="0" frameY="-11" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0002" x="2926" y="1974" width="973" height="460" frameX="0" frameY="-11" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0003" x="2926" y="1500" width="973" height="471" frameX="0" frameY="0" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0004" x="2926" y="1500" width="973" height="471" frameX="0" frameY="0" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0005" x="0" y="1561" width="973" height="465" frameX="0" frameY="-6" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0006" x="0" y="1561" width="973" height="465" frameX="0" frameY="-6" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0007" x="0" y="2029" width="973" height="448" frameX="0" frameY="-23" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0008" x="0" y="2029" width="973" height="448" frameX="0" frameY="-23" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan lose loop0009" x="1952" y="2437" width="979" height="448" frameX="0" frameY="-23" frameWidth="979" frameHeight="471"/>
+	<SubTexture name="chris chan retry0000" x="2934" y="2437" width="973" height="443" frameX="0" frameY="-115" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0001" x="2934" y="2437" width="973" height="443" frameX="0" frameY="-115" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0002" x="1950" y="1500" width="973" height="490" frameX="0" frameY="-68" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0003" x="1950" y="1500" width="973" height="490" frameX="0" frameY="-68" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0004" x="976" y="0" width="975" height="552" frameX="0" frameY="-6" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0005" x="976" y="0" width="975" height="552" frameX="0" frameY="-6" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0006" x="0" y="0" width="973" height="558" frameX="0" frameY="0" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0007" x="0" y="0" width="973" height="558" frameX="0" frameY="0" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0008" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0009" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0010" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0011" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0012" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0013" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0014" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0015" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0016" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0017" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0018" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0019" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0020" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0021" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0022" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0023" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0024" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0025" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0026" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0027" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="chris chan retry0028" x="0" y="2480" width="973" height="285" frameX="0" frameY="-273" frameWidth="975" frameHeight="558"/>
+	<SubTexture name="solid lose0000" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0001" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0002" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0003" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0004" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0005" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0006" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0007" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0008" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0009" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0010" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0011" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0012" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0013" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0014" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0015" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0016" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0017" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0018" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0019" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0020" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0021" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0022" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0023" x="0" y="2768" width="473" height="582" frameX="-436" frameY="-18" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0024" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0025" x="2463" y="3179" width="508" height="495" frameX="-409" frameY="-110" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0026" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0027" x="1945" y="2888" width="515" height="490" frameX="-408" frameY="-116" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0028" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0029" x="476" y="2768" width="455" height="588" frameX="-440" frameY="0" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0030" x="0" y="3353" width="461" height="496" frameX="-419" frameY="-90" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0031" x="0" y="3353" width="461" height="496" frameX="-419" frameY="-90" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0032" x="2974" y="3179" width="805" height="306" frameX="-189" frameY="-330" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0033" x="2974" y="3179" width="805" height="306" frameX="-189" frameY="-330" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0034" x="934" y="3320" width="825" height="286" frameX="-152" frameY="-336" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0035" x="934" y="3320" width="825" height="286" frameX="-152" frameY="-336" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0036" x="934" y="3031" width="880" height="286" frameX="-97" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0037" x="934" y="3031" width="880" height="286" frameX="-97" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0038" x="2934" y="2883" width="936" height="293" frameX="-36" frameY="-335" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0039" x="2934" y="2883" width="936" height="293" frameX="-36" frameY="-335" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0040" x="976" y="2742" width="966" height="286" frameX="-6" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0041" x="976" y="2742" width="966" height="286" frameX="-6" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0042" x="976" y="1555" width="971" height="286" frameX="-1" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0043" x="976" y="1555" width="971" height="286" frameX="-1" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0044" x="1952" y="1993" width="971" height="286" frameX="-1" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0045" x="1952" y="1993" width="971" height="286" frameX="-1" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0046" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0047" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0048" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0049" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0050" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0051" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0052" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0053" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0054" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0055" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0056" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0057" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0058" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0059" x="976" y="2453" width="972" height="286" frameX="0" frameY="-342" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0060" x="1954" y="0" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0061" x="2929" y="0" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0062" x="1954" y="500" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0063" x="2929" y="500" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0064" x="976" y="555" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0065" x="0" y="561" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0066" x="1951" y="1000" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0067" x="2926" y="1000" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0068" x="975" y="1055" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+	<SubTexture name="solid lose0069" x="0" y="1061" width="972" height="497" frameX="0" frameY="-131" frameWidth="994" frameHeight="636"/>
+</TextureAtlas>

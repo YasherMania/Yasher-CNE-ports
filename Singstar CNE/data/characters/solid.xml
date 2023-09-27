@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="100" icon="solid" camx="150" y="300" isGF="false" color="#FF373B" flipX="true" isPlayer="true" sprite="solid">
+<character x="100" icon="solid" camx="150" y="300" isGF="false" color="#FF373B" flipX="true" isPlayer="true" gameOverChar="solid-dead" sprite="solid">
 	<anim x="3" loop="false" y="20" fps="24" anim="solid idle" name="idle"/>
 	<anim x="3" loop="true" y="20" fps="24" anim="solid idle" indices="9,10,11,12" name="idle-loop"/>
 	<anim x="-15" loop="false" y="88" fps="24" anim="solid chris up note" name="singUP"/>

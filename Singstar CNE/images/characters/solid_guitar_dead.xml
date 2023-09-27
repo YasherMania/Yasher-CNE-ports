@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid_guitar_dead.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="solid guitar lose0000" x="2100" y="2457" width="442" height="473" frameX="-330" frameY="-188" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0001" x="3562" y="2459" width="442" height="473" frameX="-330" frameY="-188" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0002" x="480" y="2139" width="447" height="487" frameX="-344" frameY="-149" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0003" x="480" y="2139" width="447" height="487" frameX="-344" frameY="-149" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0004" x="930" y="2600" width="434" height="478" frameX="-339" frameY="-171" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0005" x="930" y="2600" width="434" height="478" frameX="-339" frameY="-171" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0006" x="3654" y="1972" width="439" height="484" frameX="-341" frameY="-161" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0007" x="3654" y="1972" width="439" height="484" frameX="-341" frameY="-161" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0008" x="3120" y="2393" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0009" x="2579" y="2429" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0010" x="0" y="2456" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0011" x="0" y="2456" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0012" x="0" y="2456" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0013" x="0" y="2456" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0014" x="0" y="2456" width="439" height="482" frameX="-341" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0015" x="1082" y="2125" width="463" height="472" frameX="-340" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0016" x="1082" y="2125" width="463" height="472" frameX="-340" frameY="-163" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0017" x="1626" y="1925" width="471" height="542" frameX="-337" frameY="-89" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0018" x="1626" y="1925" width="471" height="542" frameX="-337" frameY="-89" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0019" x="2100" y="1925" width="476" height="529" frameX="-345" frameY="-102" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0020" x="2100" y="1925" width="476" height="529" frameX="-345" frameY="-102" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0021" x="2100" y="1925" width="476" height="529" frameX="-345" frameY="-102" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0022" x="2100" y="1925" width="476" height="529" frameX="-345" frameY="-102" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0023" x="2100" y="1925" width="476" height="529" frameX="-345" frameY="-102" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0024" x="0" y="1927" width="477" height="526" frameX="-332" frameY="-105" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0025" x="0" y="1927" width="477" height="526" frameX="-332" frameY="-105" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0026" x="1548" y="2470" width="450" height="463" frameX="-337" frameY="-170" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0027" x="1548" y="2470" width="450" height="463" frameX="-337" frameY="-170" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0028" x="3358" y="423" width="598" height="570" frameX="-313" frameY="-183" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0029" x="792" y="621" width="567" height="539" frameX="-331" frameY="-68" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0030" x="792" y="621" width="567" height="539" frameX="-331" frameY="-68" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0031" x="0" y="389" width="789" height="529" frameX="-365" frameY="0" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0032" x="0" y="389" width="789" height="529" frameX="-365" frameY="0" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0033" x="2143" y="0" width="774" height="600" frameX="-338" frameY="-46" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0034" x="2143" y="0" width="774" height="600" frameX="-338" frameY="-46" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0035" x="1335" y="0" width="805" height="618" frameX="-293" frameY="-95" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0036" x="1335" y="0" width="805" height="618" frameX="-293" frameY="-95" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0037" x="2920" y="0" width="1035" height="420" frameX="-228" frameY="-334" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0038" x="2920" y="0" width="1035" height="420" frameX="-228" frameY="-334" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0039" x="2143" y="603" width="1212" height="343" frameX="-117" frameY="-355" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0040" x="2143" y="603" width="1212" height="343" frameX="-117" frameY="-355" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0041" x="0" y="0" width="1332" height="386" frameX="0" frameY="-344" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0042" x="0" y="0" width="1332" height="386" frameX="0" frameY="-344" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0043" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0044" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0045" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0046" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0047" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0048" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0049" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0050" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0051" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0052" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0053" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0054" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0055" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0056" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0057" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0058" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0059" x="3021" y="2878" width="531" height="335" frameX="-419" frameY="-349" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0060" x="2466" y="949" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0061" x="2466" y="949" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0062" x="3007" y="996" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0063" x="3007" y="996" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0064" x="3548" y="996" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0065" x="1362" y="1149" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0066" x="544" y="1163" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0067" x="1903" y="1437" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0068" x="2444" y="1437" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose0069" x="2444" y="1437" width="538" height="485" frameX="-419" frameY="-199" frameWidth="1332" frameHeight="754"/>
+	<SubTexture name="solid guitar lose loop0000" x="0" y="1439" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0001" x="0" y="1439" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0002" x="2985" y="1484" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0003" x="2985" y="1484" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0004" x="3526" y="1484" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0005" x="3526" y="1484" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0006" x="1085" y="1637" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0007" x="1085" y="1637" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0008" x="541" y="1651" width="538" height="485" frameX="-8" frameY="0" frameWidth="546" frameHeight="485"/>
+	<SubTexture name="solid guitar lose loop0009" x="1917" y="949" width="546" height="485"/>
+	<SubTexture name="solid guitar retry0000" x="3120" y="1972" width="531" height="418" frameX="-1" frameY="-103" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0001" x="3120" y="1972" width="531" height="418" frameX="-1" frameY="-103" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0002" x="2579" y="1972" width="538" height="454" frameX="0" frameY="-68" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0003" x="2579" y="1972" width="538" height="454" frameX="0" frameY="-68" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0004" x="0" y="921" width="541" height="515" frameX="-6" frameY="-6" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0005" x="0" y="921" width="541" height="515" frameX="-6" frameY="-6" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0006" x="1362" y="621" width="552" height="525"/>
+	<SubTexture name="solid guitar retry0007" x="1362" y="621" width="552" height="525"/>
+	<SubTexture name="solid guitar retry0008" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0009" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0010" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0011" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0012" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0013" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+	<SubTexture name="solid guitar retry0014" x="2001" y="2933" width="531" height="335" frameX="-1" frameY="-186" frameWidth="552" frameHeight="525"/>
+</TextureAtlas>

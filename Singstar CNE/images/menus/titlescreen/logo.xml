@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="singstarlogo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="799" height="212"/>
+	<SubTexture name="logo bumpin0001" x="0" y="215" width="799" height="212"/>
+	<SubTexture name="logo bumpin0002" x="0" y="430" width="799" height="210" frameX="0" frameY="-1" frameWidth="799" frameHeight="212"/>
+</TextureAtlas>

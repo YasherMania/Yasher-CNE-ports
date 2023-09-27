@@ -1,14 +1,14 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
-<character x="160" y="285" flipx="true" camx="180" camy="20">
-	<anim name="idle" anim="solid MAD idle" x="3" y="20"/>
-	<anim name="transition" anim="solid throwing guitar" x="190" y="60"/>
-	<anim name="singUP" anim="solid mad up note" x="-49" y="86"/>
-	<anim name="singDOWN" anim="solid mad down note" x="19" y="-35"/>
-	<anim name="singLEFT" anim="solid mad left note" x="113" y="20"/>
-	<anim name="singRIGHT" anim="solid mad right note" x="-3" y="25"/>
-	<anim name="singDOWNmiss" anim="solid mad down miss" x="27" y="-20"/>
-	<anim name="singUPmiss" anim="solid mad miss up" x="-41" y="85"/>
-	<anim name="singRIGHTmiss" anim="solid mad right miss" x="-2" y="29"/>
-	<anim name="singLEFTmiss" anim="solid mad left miss" x="113" y="20"/>
-	<anim name="idle-loop" anim="solid MAD idle" x="3" y="20" loop="true" indices="9,10,11,12,13,14"/>
+<!DOCTYPE codename-engine-character>
+<character x="160" icon="solid" camx="180" y="285" isGF="false" camy="20" color="#FF373B" flipX="true" isPlayer="true" gameOverChar="solid-mad-dead" sprite="solid_mad">
+	<anim x="3" loop="false" y="20" fps="24" anim="solid MAD idle" name="idle"/>
+	<anim x="190" loop="false" y="60" fps="24" anim="solid throwing guitar" name="transition"/>
+	<anim x="-49" loop="false" y="86" fps="24" anim="solid mad up note" name="singUP"/>
+	<anim x="19" loop="false" y="-35" fps="24" anim="solid mad down note" name="singDOWN"/>
+	<anim x="-3" loop="false" y="25" fps="24" anim="solid mad left note" name="singLEFT"/>
+	<anim x="113" loop="false" y="20" fps="24" anim="solid mad right note" name="singRIGHT"/>
+	<anim x="27" loop="false" y="-20" fps="24" anim="solid mad down miss" name="singDOWNmiss"/>
+	<anim x="-41" loop="false" y="85" fps="24" anim="solid mad miss up" name="singUPmiss"/>
+	<anim x="113" loop="false" y="20" fps="24" anim="solid mad right miss" name="singRIGHTmiss"/>
+	<anim x="-2" loop="false" y="29" fps="24" anim="solid mad left miss" name="singLEFTmiss"/>
+	<anim x="3" loop="true" y="20" fps="24" anim="solid MAD idle" indices="9,10,11,12,13,14" name="idle-loop"/>
 </character>

@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
-<character x="-440" y="150" flipx="true">
+<character x="0" y="150" flipx="true" sprite="solid_guitar_dead">
 	<anim name="firstDeath" anim="solid guitar lose0" x="37" y="11"/>
 	<anim name="deathLoop" anim="solid guitar lose loop" x="-374" y="-188" loop="true"/>
 	<anim name="deathConfirm" anim="solid guitar retry" x="-381" y="-152"/>

@@ -1,6 +1,6 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
-<character x="-440" y="150" flipx="true">
-	<anim name="firstDeath" anim="solid lose" x="37" y="11"/>
-	<anim name="deathLoop" anim="chris chan lose loop" x="38" y="-146" loop="true"/>
-	<anim name="deathConfirm" anim="chris chan retry" x="38" y="-59"/>
+<!DOCTYPE codename-engine-character>
+<character x="-440" icon="solid-dead" camx="900" y="150" isGF="false" camy="100" flipX="true" isPlayer="false" sprite="solid_dead">
+	<anim x="54" loop="false" y="10" fps="24" anim="solid lose" name="firstDeath"/>
+	<anim x="38" loop="true" y="-146" fps="24" anim="chris chan lose loop" name="deathLoop"/>
+	<anim x="33" loop="false" y="-59" fps="24" anim="chris chan retry" name="deathConfirm"/>
 </character>

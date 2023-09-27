@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid_mad_dead.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="solid rage lose0000" x="3712" y="1929" width="360" height="459" frameX="-362" frameY="-39" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0001" x="3712" y="1929" width="360" height="459" frameX="-362" frameY="-39" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0002" x="2110" y="2789" width="348" height="423" frameX="-367" frameY="-77" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0003" x="2110" y="2789" width="348" height="423" frameX="-367" frameY="-77" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0004" x="673" y="2709" width="386" height="472" frameX="-350" frameY="-44" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0005" x="673" y="2709" width="386" height="472" frameX="-350" frameY="-44" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0006" x="674" y="1520" width="469" height="561" frameX="-308" frameY="0" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0007" x="674" y="1520" width="469" height="561" frameX="-308" frameY="0" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0008" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0009" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0010" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0011" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0012" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0013" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0014" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0015" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0016" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0017" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0018" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0019" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0020" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0021" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0022" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0023" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0024" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0025" x="1759" y="2789" width="348" height="436" frameX="-367" frameY="-61" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0026" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0027" x="1412" y="2789" width="344" height="445" frameX="-367" frameY="-52" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0028" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0029" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0030" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0031" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0032" x="1062" y="2789" width="347" height="446" frameX="-366" frameY="-51" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0033" x="3587" y="2716" width="351" height="443" frameX="-367" frameY="-60" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0034" x="3587" y="2716" width="351" height="443" frameX="-367" frameY="-60" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0035" x="3198" y="2716" width="386" height="472" frameX="-350" frameY="-44" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0036" x="3198" y="2716" width="386" height="472" frameX="-350" frameY="-44" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0037" x="2694" y="1004" width="582" height="561" frameX="-195" frameY="0" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0038" x="2695" y="1568" width="513" height="495" frameX="-195" frameY="-3" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0039" x="1146" y="1933" width="499" height="484" frameX="-209" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0040" x="1146" y="1933" width="499" height="484" frameX="-209" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0041" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0042" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0043" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0044" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0045" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0046" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0047" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0048" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0049" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0050" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0051" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0052" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0053" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0054" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0055" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0056" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0057" x="1648" y="2014" width="497" height="484" frameX="-211" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0058" x="3211" y="1929" width="498" height="485" frameX="-210" frameY="-13" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0059" x="0" y="1971" width="498" height="484" frameX="-210" frameY="-14" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0060" x="2148" y="2014" width="510" height="470" frameX="-189" frameY="-29" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0061" x="2148" y="2014" width="510" height="470" frameX="-189" frameY="-29" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0062" x="0" y="1062" width="521" height="449" frameX="-178" frameY="-50" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0063" x="2661" y="2417" width="712" height="294" frameX="0" frameY="-299" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0064" x="2661" y="2417" width="712" height="294" frameX="0" frameY="-299" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0065" x="3376" y="2417" width="678" height="296" frameX="-11" frameY="-274" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0066" x="3376" y="2417" width="678" height="296" frameX="-11" frameY="-274" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0067" x="2521" y="2714" width="674" height="283" frameX="-17" frameY="-316" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0068" x="2521" y="2714" width="674" height="283" frameX="-17" frameY="-316" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0069" x="1848" y="2501" width="670" height="285" frameX="-19" frameY="-294" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0070" x="1848" y="2501" width="670" height="285" frameX="-19" frameY="-294" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0071" x="0" y="2709" width="670" height="285" frameX="-19" frameY="-305" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0072" x="0" y="2709" width="670" height="285" frameX="-19" frameY="-305" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0073" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0074" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0075" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0076" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0077" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0078" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0079" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0080" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0081" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0082" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0083" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0084" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0085" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0086" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0087" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0088" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0089" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0090" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0091" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0092" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0093" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0094" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0095" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0096" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0097" x="501" y="2420" width="670" height="286" frameX="-19" frameY="-298" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0098" x="1348" y="0" width="670" height="500" frameX="-19" frameY="-84" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0099" x="2707" y="0" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0100" x="3380" y="0" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0101" x="2021" y="493" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0102" x="2694" y="502" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0103" x="3367" y="502" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0104" x="1348" y="503" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0105" x="674" y="555" width="670" height="499" frameX="-19" frameY="-85" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0106" x="0" y="561" width="670" height="498" frameX="-19" frameY="-86" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose0107" x="2021" y="995" width="670" height="498" frameX="-19" frameY="-86" frameWidth="777" frameHeight="599"/>
+	<SubTexture name="solid rage lose loop0000" x="1347" y="1473" width="671" height="457" frameX="-1" frameY="-14" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0001" x="673" y="1057" width="671" height="460" frameX="-1" frameY="-11" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0002" x="673" y="1057" width="671" height="460" frameX="-1" frameY="-11" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0003" x="3279" y="1004" width="671" height="471" frameX="-1" frameY="0" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0004" x="3279" y="1004" width="671" height="471" frameX="-1" frameY="0" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0005" x="1347" y="1005" width="671" height="465" frameX="-1" frameY="-6" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0006" x="1347" y="1005" width="671" height="465" frameX="-1" frameY="-6" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0007" x="0" y="1520" width="671" height="448" frameX="-1" frameY="-23" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0008" x="0" y="1520" width="671" height="448" frameX="-1" frameY="-23" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage lose loop0009" x="3279" y="1478" width="678" height="448" frameX="0" frameY="-23" frameWidth="678" frameHeight="471"/>
+	<SubTexture name="solid rage retry0000" x="2021" y="1568" width="671" height="443" frameX="-12" frameY="-115" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0001" x="2021" y="1568" width="671" height="443" frameX="-12" frameY="-115" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0002" x="2021" y="0" width="683" height="490" frameX="0" frameY="-68" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0003" x="2021" y="0" width="683" height="490" frameX="0" frameY="-68" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0004" x="674" y="0" width="671" height="552" frameX="-14" frameY="-6" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0005" x="674" y="0" width="671" height="552" frameX="-14" frameY="-6" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0006" x="0" y="0" width="671" height="558" frameX="-12" frameY="0" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0007" x="0" y="0" width="671" height="558" frameX="-12" frameY="0" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0008" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0009" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0010" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0011" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0012" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0013" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0014" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0015" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0016" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0017" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0018" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0019" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0020" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0021" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0022" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0023" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0024" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0025" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0026" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0027" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+	<SubTexture name="solid rage retry0028" x="1174" y="2501" width="671" height="285" frameX="-12" frameY="-273" frameWidth="685" frameHeight="558"/>
+</TextureAtlas>

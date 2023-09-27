@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="micthrow.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="micthrow anim0000" x="0" y="0" width="295" height="306" frameX="-1260" frameY="-314" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow anim0001" x="295" y="0" width="321" height="277" frameX="-1042" frameY="-171" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow anim0002" x="616" y="0" width="343" height="244" frameX="-824" frameY="-29" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow anim0003" x="0" y="306" width="370" height="199" frameX="-385" frameY="0" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow anim0004" x="0" y="306" width="370" height="199" frameX="-385" frameY="0" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow anim0005" x="616" y="244" width="306" height="267" frameX="0" frameY="-190" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow hit0000" x="616" y="0" width="343" height="244" frameX="-824" frameY="-29" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow hit0001" x="0" y="306" width="370" height="199" frameX="-385" frameY="0" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow hit0002" x="0" y="306" width="370" height="199" frameX="-385" frameY="0" frameWidth="1555" frameHeight="620"/>
+	<SubTexture name="micthrow hit0003" x="616" y="244" width="306" height="267" frameX="0" frameY="-190" frameWidth="1555" frameHeight="620"/>
+</TextureAtlas>

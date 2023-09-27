@@ -1,18 +1,18 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
-<character x="175" y="300" flipx="true" camx="210" camy="-15">
-	<anim name="singUP" anim="solid guitar up" x="-24" y="68"/>
-	<anim name="singDOWN" anim="solid guitar down" x="4" y="5"/>
-	<anim name="singLEFT" anim="solid guitar left" x="11" y="23"/>
-	<anim name="singRIGHT" anim="solid guitar right" x="-37" y="31"/>
-	<anim name="singDOWNmiss" anim="solid guitar miss down" y="16"/>
-	<anim name="singUPmiss" anim="solid guitar miss up" x="-48" y="75"/>
-	<anim name="singRIGHTmiss" anim="solid guitar miss right" x="-33" y="65"/>
-	<anim name="singLEFTmiss" anim="solid guitar miss left" x="15" y="32"/>
-	<anim name="hey" anim="solid guitar hey" x="-14" y="27"/>
-	<anim name="idle-loop" anim="solid guitar idle" x="3" y="20" loop="true" indices="9,10,11,12,13,14"/>
-	<anim name="idle" anim="solid guitar idle" x="3" y="20"/>
-	<anim name="reaction" anim="live chris reaction" x="-10" y="33"/>
-	<anim name="reaction-loop" anim="live chris reaction" x="-10" y="33" loop="true" indices="25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45"/>
-	<anim name="stop" anim="live chris reaction" x="-10" y="33" indices="69,70,71,72,73,74,75,76,77,78"/>
-	<anim name="stop-loop" anim="live chris reaction" x="-10" y="33" loop="true" indices="79,80,81,82"/>
+<!DOCTYPE codename-engine-character>
+<character x="175" icon="solid" camx="210" y="300" isGF="false" camy="-15" color="#FF373B" flipX="true" isPlayer="true" gameOverChar="solid-guitar-dead" sprite="solid_guitar">
+	<anim x="-24" loop="false" y="68" fps="24" anim="solid guitar up" name="singUP"/>
+	<anim x="4" loop="false" y="5" fps="24" anim="solid guitar down" name="singDOWN"/>
+	<anim x="13" loop="false" y="21" fps="24" anim="solid guitar left" name="singLEFT"/>
+	<anim x="-39" loop="false" y="33" fps="24" anim="solid guitar right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="16" fps="24" anim="solid guitar miss down" name="singDOWNmiss"/>
+	<anim x="-48" loop="false" y="75" fps="24" anim="solid guitar miss up" name="singUPmiss"/>
+	<anim x="-30" loop="false" y="67" fps="24" anim="solid guitar miss right" name="singRIGHTmiss"/>
+	<anim x="12" loop="false" y="30" fps="24" anim="solid guitar miss left" name="singLEFTmiss"/>
+	<anim x="-14" loop="false" y="27" fps="24" anim="solid guitar hey" name="hey"/>
+	<anim x="3" loop="true" y="20" fps="24" anim="solid guitar idle" indices="9,10,11,12,13,14" name="idle-loop"/>
+	<anim x="3" loop="false" y="20" fps="24" anim="solid guitar idle" name="idle"/>
+	<anim x="-10" loop="false" y="33" fps="24" anim="live chris reaction" name="reaction"/>
+	<anim x="-10" loop="true" y="33" fps="24" anim="live chris reaction" indices="25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45" name="reaction-loop"/>
+	<anim x="-10" loop="false" y="33" fps="24" anim="live chris reaction" indices="69,70,71,72,73,74,75,76,77,78" name="stop"/>
+	<anim x="-10" loop="true" y="33" fps="24" anim="live chris reaction" indices="79,80,81,82" name="stop-loop"/>
 </character>

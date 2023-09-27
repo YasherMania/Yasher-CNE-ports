@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solid_guitar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="live chris reaction0000" x="906" y="1992" width="452" height="478" frameX="-3" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0001" x="906" y="1992" width="452" height="478" frameX="-3" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0002" x="0" y="1509" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0003" x="0" y="1509" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0004" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0005" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0006" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0007" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0008" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0009" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0010" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0011" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0012" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0013" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0014" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0015" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0016" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0017" x="2312" y="1984" width="452" height="481" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0018" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0019" x="453" y="1510" width="450" height="484" frameX="-3" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0020" x="462" y="530" width="459" height="487" frameX="-5" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0021" x="462" y="530" width="459" height="487" frameX="-5" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0022" x="2294" y="518" width="454" height="503" frameX="-5" frameY="-15" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0023" x="2294" y="518" width="454" height="503" frameX="-5" frameY="-15" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0024" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0025" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0026" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0027" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0028" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0029" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0030" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0031" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0032" x="0" y="527" width="459" height="496" frameX="-4" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0033" x="0" y="527" width="459" height="496" frameX="-4" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0034" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0035" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0036" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0037" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0038" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0039" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0040" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0041" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0042" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0043" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0044" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0045" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0046" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0047" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0048" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0049" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0050" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0051" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0052" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0053" x="0" y="527" width="459" height="496" frameX="-4" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0054" x="0" y="527" width="459" height="496" frameX="-4" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0055" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0056" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0057" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0058" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0059" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0060" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0061" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0062" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0063" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0064" x="2809" y="512" width="461" height="497" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0065" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0066" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0067" x="3273" y="512" width="459" height="499" frameX="-4" frameY="-13" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0068" x="2294" y="1024" width="451" height="487" frameX="-3" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0069" x="462" y="1020" width="452" height="487" frameX="-2" frameY="-16" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0070" x="3206" y="1501" width="451" height="484" frameX="-6" frameY="0" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0071" x="3206" y="1501" width="451" height="484" frameX="-6" frameY="0" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0072" x="917" y="1500" width="447" height="489" frameX="-3" frameY="-3" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0073" x="917" y="1500" width="447" height="489" frameX="-3" frameY="-3" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0074" x="1367" y="1521" width="460" height="473" frameX="0" frameY="-11" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0075" x="1367" y="1521" width="460" height="473" frameX="0" frameY="-11" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0076" x="1830" y="1989" width="454" height="477" frameX="-3" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0077" x="1830" y="1989" width="454" height="477" frameX="-3" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0078" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0079" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0080" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0081" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0082" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0083" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0084" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0085" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0086" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0087" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0088" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0089" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0090" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0091" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0092" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0093" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0094" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0095" x="0" y="1997" width="453" height="476" frameX="-5" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="live chris reaction0096" x="1830" y="1989" width="454" height="477" frameX="-4" frameY="-7" frameWidth="465" frameHeight="518"/>
+	<SubTexture name="solid guitar down0000" x="1364" y="2940" width="450" height="472" frameX="0" frameY="-13" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0001" x="1364" y="2940" width="450" height="472" frameX="0" frameY="-13" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0002" x="2277" y="2943" width="450" height="472" frameX="-7" frameY="0" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0003" x="2277" y="2943" width="450" height="472" frameX="-7" frameY="0" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0004" x="2744" y="2475" width="454" height="471" frameX="-8" frameY="-2" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0005" x="2744" y="2475" width="454" height="471" frameX="-8" frameY="-2" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar down0006" x="2744" y="2475" width="454" height="471" frameX="-8" frameY="-2" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar hey0000" x="1387" y="1039" width="458" height="479"/>
+	<SubTexture name="solid guitar hey0001" x="1387" y="1039" width="458" height="479"/>
+	<SubTexture name="solid guitar hey0002" x="2287" y="2468" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar hey0003" x="2287" y="2468" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar hey0004" x="1387" y="1039" width="458" height="479"/>
+	<SubTexture name="solid guitar hey0005" x="1387" y="1039" width="458" height="479"/>
+	<SubTexture name="solid guitar hey0006" x="2287" y="2468" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar hey0007" x="2287" y="2468" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar hey0008" x="1820" y="2469" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar hey0009" x="1820" y="2469" width="454" height="472" frameX="0" frameY="-7" frameWidth="458" frameHeight="479"/>
+	<SubTexture name="solid guitar idle0000" x="0" y="2952" width="465" height="454" frameX="-4" frameY="-20" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0001" x="0" y="2952" width="465" height="454" frameX="-4" frameY="-20" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0002" x="2730" y="2949" width="460" height="459" frameX="0" frameY="-16" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0003" x="2730" y="2949" width="460" height="459" frameX="0" frameY="-16" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0004" x="1361" y="1997" width="459" height="467" frameX="-5" frameY="-8" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0005" x="1361" y="1997" width="459" height="467" frameX="-5" frameY="-8" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0006" x="0" y="2476" width="452" height="473" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0007" x="0" y="2476" width="452" height="473" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0008" x="456" y="2473" width="454" height="472" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0009" x="456" y="2473" width="454" height="472" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0010" x="3201" y="2940" width="454" height="470" frameX="-17" frameY="-2" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0011" x="3201" y="2940" width="454" height="470" frameX="-17" frameY="-2" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0012" x="456" y="2473" width="454" height="472" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar idle0013" x="456" y="2473" width="454" height="472" frameX="-17" frameY="0" frameWidth="471" frameHeight="475"/>
+	<SubTexture name="solid guitar left0000" x="2767" y="1988" width="449" height="484" frameX="0" frameY="0" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar left0001" x="2767" y="1988" width="449" height="484" frameX="0" frameY="0" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar left0002" x="1848" y="1514" width="461" height="472" frameX="-14" frameY="-1" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar left0003" x="1848" y="1514" width="461" height="472" frameX="-14" frameY="-1" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar left0004" x="3219" y="1988" width="456" height="476" frameX="-12" frameY="-1" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar left0005" x="3219" y="1988" width="456" height="476" frameX="-12" frameY="-1" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar miss down0000" x="1364" y="2940" width="450" height="472" frameX="0" frameY="-27" frameWidth="462" frameHeight="485"/>
+	<SubTexture name="solid guitar miss down0001" x="913" y="2940" width="448" height="477" frameX="-9" frameY="0" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0002" x="913" y="2940" width="448" height="477" frameX="-9" frameY="0" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0003" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0004" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0005" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0006" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0007" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0008" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0009" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0010" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0011" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0012" x="1361" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0013" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss down0014" x="3219" y="2467" width="456" height="470" frameX="-5" frameY="-7" frameWidth="461" frameHeight="498"/>
+	<SubTexture name="solid guitar miss left0000" x="2767" y="1988" width="449" height="484" frameX="0" frameY="-8" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="solid guitar miss left0001" x="924" y="530" width="460" height="484" frameX="-17" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0002" x="924" y="530" width="460" height="484" frameX="-17" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0003" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0004" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0005" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0006" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0007" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0008" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0009" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0010" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0011" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0012" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0013" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0014" x="3213" y="1014" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss left0015" x="2751" y="1012" width="459" height="484" frameX="-16" frameY="0" frameWidth="477" frameHeight="492"/>
+	<SubTexture name="solid guitar miss right0000" x="2748" y="1499" width="455" height="482" frameX="-15" frameY="-34" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0001" x="2342" y="0" width="464" height="515" frameX="0" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0002" x="2342" y="0" width="464" height="515" frameX="0" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0003" x="1404" y="0" width="466" height="515" frameX="-1" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0004" x="1873" y="0" width="466" height="515" frameX="-1" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0005" x="1873" y="0" width="466" height="515" frameX="-1" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0006" x="1404" y="0" width="466" height="515" frameX="-1" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss right0007" x="1873" y="0" width="466" height="515" frameX="-1" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar miss up0000" x="1849" y="518" width="442" height="517" frameX="-7" frameY="-6" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0001" x="0" y="0" width="469" height="524" frameX="0" frameY="-3" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0002" x="0" y="0" width="469" height="524" frameX="0" frameY="-3" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0003" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0004" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0005" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0006" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0007" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0008" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0009" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0010" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0011" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0012" x="472" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0013" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar miss up0014" x="938" y="0" width="463" height="527" frameX="-3" frameY="0" frameWidth="469" frameHeight="527"/>
+	<SubTexture name="solid guitar right0000" x="2748" y="1499" width="455" height="482" frameX="-10" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar right0001" x="2748" y="1499" width="455" height="482" frameX="-10" frameY="0" frameWidth="470" frameHeight="516"/>
+	<SubTexture name="solid guitar right0002" x="0" y="1026" width="458" height="480" frameX="0" frameY="-2" frameWidth="465" frameHeight="482"/>
+	<SubTexture name="solid guitar right0003" x="0" y="1026" width="458" height="480" frameX="0" frameY="-2" frameWidth="465" frameHeight="482"/>
+	<SubTexture name="solid guitar right0004" x="924" y="1017" width="460" height="480" frameX="0" frameY="-2" frameWidth="465" frameHeight="482"/>
+	<SubTexture name="solid guitar right0005" x="924" y="1017" width="460" height="480" frameX="0" frameY="-2" frameWidth="465" frameHeight="482"/>
+	<SubTexture name="solid guitar up0000" x="1404" y="518" width="442" height="518" frameX="-6" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="solid guitar up0001" x="1404" y="518" width="442" height="518" frameX="-6" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="solid guitar up0002" x="2809" y="0" width="463" height="509" frameX="0" frameY="-9" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="solid guitar up0003" x="2809" y="0" width="463" height="509" frameX="0" frameY="-9" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="solid guitar up0004" x="3275" y="0" width="460" height="509" frameX="0" frameY="-9" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="solid guitar up0005" x="3275" y="0" width="460" height="509" frameX="0" frameY="-9" frameWidth="463" frameHeight="518"/>
+</TextureAtlas>
