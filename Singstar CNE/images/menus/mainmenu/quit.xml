@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_quit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="quit selected0000" x="0" y="0" width="396" height="239"/>
+	<SubTexture name="quit selected0001" x="395" y="239" width="392" height="237" frameX="-1" frameY="0" frameWidth="396" frameHeight="239"/>
+	<SubTexture name="quit selected0002" x="0" y="239" width="395" height="238" frameX="-1" frameY="-1" frameWidth="396" frameHeight="239"/>
+	<SubTexture name="quit static0000" x="396" y="0" width="339" height="205"/>
+	<SubTexture name="quit static0001" x="396" y="0" width="339" height="205"/>
+	<SubTexture name="quit static0002" x="396" y="0" width="339" height="205"/>
+	<SubTexture name="quit static0003" x="0" y="477" width="335" height="203" frameX="-1" frameY="0" frameWidth="339" frameHeight="205"/>
+	<SubTexture name="quit static0004" x="0" y="477" width="335" height="203" frameX="-1" frameY="0" frameWidth="339" frameHeight="205"/>
+	<SubTexture name="quit static0005" x="0" y="477" width="335" height="203" frameX="-1" frameY="0" frameWidth="339" frameHeight="205"/>
+	<SubTexture name="quit static0006" x="395" y="476" width="338" height="204" frameX="-1" frameY="-1" frameWidth="339" frameHeight="205"/>
+	<SubTexture name="quit static0007" x="395" y="476" width="338" height="204" frameX="-1" frameY="-1" frameWidth="339" frameHeight="205"/>
+	<SubTexture name="quit static0008" x="395" y="476" width="338" height="204" frameX="-1" frameY="-1" frameWidth="339" frameHeight="205"/>
+</TextureAtlas>

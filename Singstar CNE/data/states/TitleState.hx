@@ -1,7 +1,8 @@
 import openfl.Lib;
 import flixel.addons.display.FlxBackdrop;
+import flixel.group.FlxGroup;
 
-var q:Bool = false;
+var bopAnimStop:Bool = false; // stops the bop anim
 
 var coolBackdrop = new FlxBackdrop(Paths.image('menus/titlescreen/backdrop'));
 var bg = new FlxSprite(0, -100).loadGraphic(Paths.image('menus/titlescreen/bg'));
@@ -43,15 +44,14 @@ function postCreate() {
             //trace("FUCK THIS WORKS");
         }
     }
-    trace(bar1.x);
     titleText.y = 570;
     Lib.application.window.title = "Friday Night Funkin' - SingStar Challenge";
 }
 
 function update(elapsed:Float) {
-    if (FlxG.keys.justPressed.ENTER) {
-        q = true;
-        FlxTween.tween(funni, {alpha: 1}, 1, {ease:FlxEase.easeOut});
+    if (FlxG.keys.justPressed.ENTER && transitioning && skippedIntro) {
+        bopAnimStop = true;
+        FlxTween.tween(funni, {alpha: 1}, 0.8, {ease:FlxEase.easeOut});
         //boppers.animation.play("bopawake");
         boppers.animation.play("awake", true);
     }
@@ -64,7 +64,7 @@ function update(elapsed:Float) {
 }
 
 function stepHit() {
-    if (curStep % 2 && !q) {
+    if (curStep % 2 && !bopAnimStop) {
         boppers.animation.play("bop");
     }
 }
