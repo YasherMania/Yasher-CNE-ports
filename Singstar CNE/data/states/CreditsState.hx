@@ -21,7 +21,8 @@ var iconArray:Array<HealthIcon> = [];
 var interpColor:FlxInterpolateColor;
 var credits:Array<String> = ["Binej Yeah", "Zibidi", "EJ", "Requiem", "Zavemann", "Kevin Kuntz", "Yasher"];
 var creditColours:Array<FlxColor> = ["13553358", "5921370", "16757760", "10254349", "11053224", "8677154", "6431428"];
-var creditDesc:Array<String> = ["Main Liquid Artist of Singstar Challenge", "Main Solid Artist of Singstar Challenge", "Main Composer of Singstar Challenge", "Menu/Game Over Composer of Singstar Challenge", "Assistant Composer of Singstar Challenge", "Main Programmer of Singstar Challenge", "Main Programmer for CNE SingStar Challenge port"];
+var creditDesc:Array<String> = ["Main Liquid Artist of Singstar Challenge", "Main Solid Artist of Singstar Challenge", "Main Composer of Singstar Challenge", "Menu/Game Over Composer of Singstar Challenge", "Assistant Composer of Singstar Challenge", "Main Programmer of Singstar Challenge", "Main Programmer for CNE Singstar Challenge port"];
+var creditlinks:Array<String> = ["https://binejyeah.newgrounds.com", "https://zibidi.newgrounds.com", "https://twitter.com/ESimplyJ", "https://thereq.newgrounds.com", "https://twitter.com/ZavemannVA","https://kevinkuntz.newgrounds.com", "https://twitter.com/Yashermania"];
 var menuItems:FlxTypedGroup<Alphabet>;
 var selectedSomethin:Bool = false;
 var curSelected:Int = 0;
@@ -51,7 +52,7 @@ function create() {
 
     backdro = new FlxBackdrop(Paths.image('menus/titlescreen/backdrop'));
     backdro.scale.set(0.8, 0.8);
-    backdro.velocity.set(90 * 2, 0);
+    backdro.velocity.set(50 * 2, 65);
     backdro.y = 56 * 2;
     backdro.alpha = 0.27;
     backdro.color = 0xFF000000;
@@ -85,6 +86,9 @@ function create() {
     boxtext.screenCenter(FlxAxes.X);
     add(boxtext);
 
+    what = new Alphabet(900, 100, "Credits", true, false);
+    add(what);
+
     changeSelection(0, true);
     interpColor = new FlxInterpolateColor(bg.color);
 }
@@ -108,6 +112,7 @@ function update(elapsed:Float) {
 function select() {
 	FlxG.sound.play(Paths.sound('menu/confirm'));
     trace("YAY!");
+    CoolUtil.openURL(creditlinks[curSelected]);
 }
 
 function changeSelection(change:Int = 0, force:Bool = false) {
