@@ -1,7 +1,8 @@
 import funkin.backend.utils.NativeAPI;
 
 var redirectStates:Map<FlxState, String> = [
-    MainMenuState => "CustomMainMenuState", // make TitleState go to mod state of the file states/ModTitleState.hx
+    MainMenuState => "CustomMainMenuState",
+    StoryMenuState => "CustomStoryMenuState",
 ];
 
 function preStateSwitch() {

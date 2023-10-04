@@ -14,6 +14,7 @@ import flixel.FlxObject;
 import funkin.options.OptionsMenu;
 import funkin.menus.credits.CreditsMain;
 import funkin.editors.EditorPicker;
+import funkin.menus.ModSwitchMenu;
 import Sys;
 
 var optionShit:Array<String> = ["story","freeplay", "options", "credits","quit"];
@@ -26,7 +27,6 @@ var camFollowPos:FlxObject;
 public var canAccessDebugMenus:Bool = true;
 
 function create() {
-
     camFollow = new FlxObject(0, 0, 1, 1);
     camFollowPos = new FlxObject(0, 0, 1, 1);
     add(camFollow);
@@ -111,6 +111,11 @@ function update(elapsed:Float) {
                 openSubState(new EditorPicker());
             }
         }
+        if (controls.SWITCHMOD) {
+            openSubState(new ModSwitchMenu());
+            persistentUpdate = false;
+            persistentDraw = true;
+        }
         if (controls.LEFT_P)
             changeItem(-1);
 
@@ -184,7 +189,7 @@ function selectItem() {
                 FlxG.switchState(new OptionsMenu());
                 trace("Options Selected");
             case 'credits':
-                FlxG.switchState(new CreditsMain());
+                FlxG.switchState(new ModState("CreditsState"));
                 trace("Credits Selected");
             case 'quit':
                 Sys.exit(0);

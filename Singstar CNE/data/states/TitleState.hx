@@ -3,6 +3,7 @@ import flixel.addons.display.FlxBackdrop;
 import flixel.group.FlxGroup;
 
 var bopAnimStop:Bool = false; // stops the bop anim
+var bgTween:FlxTween = null;
 
 var coolBackdrop = new FlxBackdrop(Paths.image('menus/titlescreen/backdrop'));
 var bg = new FlxSprite(0, -100).loadGraphic(Paths.image('menus/titlescreen/bg'));
@@ -51,7 +52,7 @@ function postCreate() {
 function update(elapsed:Float) {
     if (FlxG.keys.justPressed.ENTER && transitioning && skippedIntro) {
         bopAnimStop = true;
-        FlxTween.tween(funni, {alpha: 1}, 0.8, {ease:FlxEase.easeOut});
+        FlxTween.tween(funni, {alpha: 1}, 0.2, {ease: FlxEase.quadIn});
         //boppers.animation.play("bopawake");
         boppers.animation.play("awake", true);
     }
@@ -66,5 +67,15 @@ function update(elapsed:Float) {
 function stepHit() {
     if (curStep % 2 && !bopAnimStop) {
         boppers.animation.play("bop");
+    }
+}
+
+function beatHit() {
+    if(!transitioning) {
+        if(bgTween != null) {
+            bgTween.cancel();
+        }
+        bg.alpha = 0.6;
+        bgTween = FlxTween.tween(bg, {alpha: 0}, (Conductor.crochet / 1000) * 8, {ease: FlxEase.quadOut, onComplete: function(twn:FlxTween) {hudTxtTween = null;}});
     }
 }
