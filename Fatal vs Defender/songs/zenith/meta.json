@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 128,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -131072,
+	"displayName": "zenith",
+	"icon": "fatal",
+	"name": "zenith",
+	"color": "#FE0000"
+}
