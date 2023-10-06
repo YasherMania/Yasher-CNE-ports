@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="soner" y="0" camx="190" camy="50" isGF="false" color="#6666CC" isPlayer="false" holdTime="6.1" sprite="toy_sonic">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="-5" loop="false" y="-5" fps="24" anim="up" name="singUP"/>
+	<anim x="-46" loop="false" y="-25" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-65" loop="false" y="-15" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="35" loop="false" y="0" fps="24" anim="left" name="singLEFT"/>
+	<anim x="10" loop="false" y="0" fps="24" anim="scare" name="singUP-alt"/>
+	<anim x="10" loop="false" y="0" fps="24" anim="scare" name="singDOWN-alt"/>
+</character>

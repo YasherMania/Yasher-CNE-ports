@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 185,
+	"difficulties": [
+		"EXTRA-TEA"
+	],
+	"needsVoices": true,
+	"parsedColor": -6736999,
+	"displayName": "chaited",
+	"icon": "chaited",
+	"name": "chaited",
+	"color": "#993399"
+}

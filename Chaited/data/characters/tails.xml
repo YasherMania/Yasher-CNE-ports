@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="taing" camx="-80" y="0" isGF="true" scale="1.5" camy="300" color="#ff9900" isPlayer="false" holdTime="6.1" sprite="tails">
+	<anim x="0" loop="false" y="0" fps="24" anim="danceLeft" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="danceRight" name="danceRight"/>
+	<anim x="5" loop="false" y="-5" fps="24" anim="up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="down" name="singDOWN"/>
+</character>

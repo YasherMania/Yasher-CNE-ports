@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg chara left.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg charac left0000" x="0" y="0" width="526" height="688" frameX="0" frameY="-28" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0001" x="0" y="0" width="526" height="688" frameX="0" frameY="-28" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0002" x="526" y="0" width="520" height="688" frameX="-6" frameY="-20" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0003" x="526" y="0" width="520" height="688" frameX="-6" frameY="-20" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0004" x="1046" y="0" width="500" height="688" frameX="-26" frameY="-8" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0005" x="1046" y="0" width="500" height="688" frameX="-26" frameY="-8" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0006" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0007" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0008" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0009" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0010" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0011" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0012" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+	<SubTexture name="bg charac left0013" x="1546" y="0" width="496" height="688" frameX="-30" frameY="0" frameWidth="526" frameHeight="716"/>
+</TextureAtlas>
